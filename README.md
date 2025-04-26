@@ -15,6 +15,8 @@ This project is designed for processing, filtering, and optimizing molecular SMI
     pip install .
     cd ..
     ```
+2. Unzip this file to the root directory and rename it to "data". Link - https://drive.google.com/file/d/1R24W4YYKVeVc6G-EdGMnFRFMJWJOeo9e/view?usp=sharing.
+It contains csv file with antioxidants and their pseudo labling.
 
 ### 1. Regression model
 Used form our RL algorith to pseudo label smiles
@@ -38,4 +40,5 @@ Variables inside:
 ## Notes
 - Ensure `rdkit` is properly installed for SMILES processing.
 - Adjust hyperparameters in `gt_converted.py` for better optimization results.
+- Original repo with VAE - https://github.com/wengong-jin/hgraph2graph/tree/master
  

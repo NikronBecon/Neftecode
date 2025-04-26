@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: hgraph2graph
+Version: 0.1
+Author: Wengong Jin
+Requires-Dist: torch
+Requires-Dist: rdkit
+Requires-Dist: tqdm
+Dynamic: author
+Dynamic: requires-dist

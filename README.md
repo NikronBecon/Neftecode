@@ -19,7 +19,7 @@ This project is designed for processing, filtering, and optimizing molecular SMI
 It contains csv file with antioxidants and their pseudo labling.
 
 ### 1. Regression model
-Used form our RL algorith to pseudo label smiles
+Used from our RL algorith to pseudo label smiles. 
 Example of usage in get_smiles.ipynb
 
 ### 2. Optimisation algorithm

@@ -24,8 +24,11 @@ Example of usage in get_smiles.ipynb
 
 ### 2. Optimisation algorithm
 **file** - gt_converted.py
-Variables inside:
+ 
+Variables inside: 
+
 **path_to_vocab** - path to vocabulaty of the model VAE
+
 **path_to_data_to_train_MLP** - path to csv file with pseudo labeled smiles
 
 ## File Descriptions

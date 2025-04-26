@@ -1,0 +1,8 @@
+torch
+networkx
+rdkit
+numpy
+chemprop
+qsprpred
+pandas
+scikit-learn
